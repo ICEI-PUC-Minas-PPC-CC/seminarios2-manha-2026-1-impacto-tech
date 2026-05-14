@@ -9,7 +9,7 @@
 | # | Material | Tipo | Link / Localização |
 | --- | --------- | ------ | ------------------- |
 | 1 | Material-Base | .odt / .docx | Aquivos do github |
-| 2 | Apresentação-Oficina.pdf | .png / .pptx | https://canva.link/zun9o2yfx04o4ce / Arquivos Github |
+| 2 | Apresentação-Oficina.pdf | .pptx | https://canva.link/zun9o2yfx04o4ce / Arquivos Github |
 | 3 | Questionário final | forms do google | https://forms.gle/UMzfAXir9RGyUtTf8 |
 
 ## Apresentações / Slides

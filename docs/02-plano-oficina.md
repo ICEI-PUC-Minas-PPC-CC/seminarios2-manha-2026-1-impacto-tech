@@ -34,8 +34,8 @@ A utilização de IA entre adolescentes já é uma realidade massiva nos trabalh
 | # | Tópico | Duração estimada | Ferramentas utilizadas |
 | --- | -------- | ----------------- | ---------------------- |
 | 1 | Contexto do tema (Slides visuais) | 10 min | Projetor
-| 2 | Dicas de utilização das IAGs | 30 min | Projetor
-| 3 | Aplicação do Questionário | 10 min | Projetor e/ou computadores do laboratório
+| 2 | Dicas de utilização das IAGs (Slides visuais) | 30 min | Projetor
+| 3 | Aplicação do Questionário (Goggle Forms) | 10 min | Projetor e/ou computadores do laboratório
 
 ## 6. Metodologia
 

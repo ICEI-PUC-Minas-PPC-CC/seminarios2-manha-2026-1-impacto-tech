@@ -8,9 +8,9 @@
 
 | # | Material | Tipo | Link / Localização |
 | --- | --------- | ------ | ------------------- |
-| 1 | | *(Kahoot! / Mentimeter / Planilha / Documento / Scratch / Outro)* | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Material-Base | .odt / .docx | Aquivos do github |
+| 2 | Apresentação-Oficina.pdf | .png / .pptx | https://canva.link/zun9o2yfx04o4ce / Arquivos Github |
+| 3 | Questionário final | forms do google | https://forms.gle/UMzfAXir9RGyUtTf8 |
 
 ## Apresentações / Slides
 
@@ -29,10 +29,8 @@
 
 | Recurso | URL |
 | --------- | ----- |
-| Kahoot! da oficina | |
-| Mentimeter da oficina | |
-| Documento compartilhado | |
-| Projeto Scratch | |
+| Forms da Oficina | https://forms.gle/UMzfAXir9RGyUtTf8 |
+| Apresentação da Oficina | https://canva.link/zun9o2yfx04o4ce |
 | Outro | |
 
 ## Observações sobre os Materiais

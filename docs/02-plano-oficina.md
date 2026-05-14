@@ -35,7 +35,7 @@ A utilização de IA entre adolescentes já é uma realidade massiva nos trabalh
 | --- | -------- | ----------------- | ---------------------- |
 | 1 | Contexto do tema (Slides visuais) | 10 min | Projetor
 | 2 | Dicas de utilização das IAGs | 30 min | Projetor
-| 3 | Demonstração nas IAGs | 10 min | Projetor
+| 3 | Aplicação do Questionário | 10 min | Projetor e/ou computadores do laboratório
 
 ## 6. Metodologia
 
@@ -48,11 +48,9 @@ A oficina será conduzida de maneira **altamente visual e prática**, com instru
 ### Ferramentas digitais
 
 - [x] Mentimeter / Kahoot! *(para avaliação visual no fim)*
-- [x] Google Docs / LibreOffice *(para registrar e editar as respostas da IA)*
-- [ ] Scratch
-- [ ] Calculadora (celular/SO)
 - [x] Navegador de internet *(para acessar IAs generativas diretamente pela Web)*
-- [ ] Outro: *(especificar)*
+- [x] Google Forms
+
 
 ### Infraestrutura
 
@@ -71,7 +69,7 @@ A oficina será conduzida de maneira **altamente visual e prática**, com instru
 | 10/03/2026 | Definição do tema | Todos |
 | 10/03/2026 | Levantamento de demandas | Todos |
 | 25/04/2026 | Formação do arquivo de materiais de referência | Guilherme
-| 07/05/2026 | Elaboração dos materiais (Slides Visuais e Prompts) | Guilherme |
+| 07/05/2026 | Elaboração dos materiais (Slides Visuais e Formulário) | Guilherme |
 | 29/05/2026 | Execução da oficina | Todos |
 | 05/06/2026 | Preenchimento dos relatórios APC | Todos |
 
@@ -79,9 +77,14 @@ A oficina será conduzida de maneira **altamente visual e prática**, com instru
 
 ## 9. Avaliação da Oficina
 
-A avaliação será **formativa e de processo**, não focando no "produto final", mas sim na capacidade de os alunos engajarem na atividade. Será realizada de duas formas:
-1. **Observação direta:** Os membros do grupo acompanharão a atividade prática nos computadores para verificar se os alunos compreenderam como identificar erros (alucinações) e como solicitar ajuda sem buscar a resposta pronta.
-2. **Quiz Interativo Visual:** Nos 10 minutos finais, faremos um quiz simples e bastante visual (utilizando Kahoot! ou Mentimeter) com imagens, onde os alunos votarão se uma situação de uso da IA é "Certa" (parceira) ou "Errada" (muleta/copiar e colar).
+A avaliação será **formativa e baseada no desenvolvimento do pensamento crítico**, observando como os alunos interagem com as Inteligências Artificiais e analisam as informações geradas por elas.
+
+Ela acontecerá em dois momentos:
+
+1. **Momento da apresentação prática:** Durante a demonstração das IAGs, os participantes acompanharão exemplos de perguntas e respostas geradas pela IA. Nesse momento, será observado se os alunos conseguem perceber diferenças entre um uso produtivo da tecnologia e um uso passivo baseado apenas em copiar respostas prontas. Também será incentivada a participação por meio de perguntas rápidas e comentários sobre os exemplos apresentados.
+
+2. **Momento do questionário crítico:** Nos minutos finais, será aplicado um questionário visual e acessível com pequenos textos produzidos por IA sobre temas variados. Alguns conterão informações corretas e outros apresentarão “alucinações” (informações falsas ou inventadas). Os alunos deverão identificar quais textos parecem confiáveis e quais devem ser questionados, podendo discutir e pesquisar as informações quando necessário. A proposta é estimular a análise crítica e mostrar que respostas geradas por IA nem sempre estão corretas.
+Observação direta: Durante as demonstrações práticas, os integrantes do grupo acompanharão a participação dos alunos para verificar se conseguem analisar respostas da IA de maneira crítica, identificando exageros, informações duvidosas ou possíveis invenções geradas pelo sistema.
 
 ## 10. Referências
 
@@ -89,5 +92,3 @@ A avaliação será **formativa e de processo**, não focando no "produto final"
 2. SILVA, Alessandro Siqueira et al. INTELIGÊNCIA ARTIFICIAL NA EDUCAÇÃO BRASILEIRA: FOMENTANDO OU FREANDO A AUTONOMIA E O PENSAMENTO CRÍTICO DO ALUNO? (Estratégias de preservação da racionalidade: Aluno como Auditor de Conhecimento e Sparring Intelectual).
 3. JESUS, Natan André de; SANTOS, Jeferson Vitorino dos. Aplicação da inteligência artificial generativa na Educação 5.0: personalização da aprendizagem e desenvolvimento socioemocional em ambiente escolar (Uso para adaptação e inclusão digital).
 4. BRASIL. Ministério da Educação. Secretaria de Educação Básica. Inteligência Artificial na Educação Básica: Documento orientador sobre caminhos curriculares e práticas éticas de uso de IA nas escolas. Brasília: MEC, 2026.
-
-```

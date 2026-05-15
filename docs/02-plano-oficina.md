@@ -8,7 +8,7 @@
 
 ## 1. Objetivo Geral
 
-Capacitar os estudantes com deficiência auditiva e cognitiva para o uso ético e crítico das Inteligências Artificiais Generativas (IAG), utilizando metodologias acessíveis e de baixa complexidade, para que utilizem a tecnologia como um catalisador de aprendizagem e não como um atalho que atrofia o raciocínio autônomo.
+Capacitar os estudantes para o uso ético e crítico das Inteligências Artificiais Generativas (IAG), com metodologias, para que utilizem a tecnologia como um catalisador de aprendizagem e não como um atalho que atrofia o raciocínio autônomo.
 
 ## 2. Objetivos Específicos
 
@@ -18,13 +18,13 @@ Capacitar os estudantes com deficiência auditiva e cognitiva para o uso ético 
 
 ## 3. Justificativa
 
-A utilização de IA entre adolescentes já é uma realidade massiva nos trabalhos escolares. Contudo, essa facilidade esconde o risco de terceirização intelectual ("descarregamento cognitivo"), onde o estudante para de ler, comparar informações e pensar criticamente, tornando-se um receptor passivo. Esta oficina atende à demanda de transformar o uso superficial da tecnologia em um letramento ético. Além disso, a IA e a Educação 5.0 são fundamentais para promover inclusão e adaptar o aprendizado, o que justifica a aplicação destas ferramentas de modo prático e guiado para alunos com necessidades especiais de aprendizagem.
+O uso de Inteligência Artificial por adolescentes já faz parte da rotina escolar, porém muitos estudantes utilizam essas ferramentas sem orientação sobre seu uso ético e crítico. Isso pode gerar dependência de respostas prontas e reduzir o desenvolvimento do pensamento autônomo. Dessa forma, a oficina busca promover o letramento digital e incentivar o uso consciente da IA, mostrando como ela pode atuar como apoio ao aprendizado e não como substituta do raciocínio humano. A proposta também se alinha aos princípios da Educação 5.0, estimulando autonomia, análise crítica e participação ativa dos alunos.
 
 ## 4. Público-Alvo
 
 | Campo | Informação |
 | ------- | ----------- |
-| Perfil dos participantes | Adolescentes estudantes de escola pública com foco em acessibilidade |
+| Perfil dos participantes | Adolescentes estudantes de escola pública |
 | Faixa etária | 15 - 18 anos |
 | Nº estimado | 10 - 30 alunos |
 | Necessidades especiais de acessibilidade | [a confirmar com a escola] |
@@ -39,7 +39,7 @@ A utilização de IA entre adolescentes já é uma realidade massiva nos trabalh
 
 ## 6. Metodologia
 
-A oficina será conduzida de maneira **altamente visual e prática**, com instruções curtas e diretas, sempre traduzidas simultaneamente pelo intérprete de Libras.
+A oficina será conduzida de maneira **altamente visual e prática**, com dois principais momentos:
 **Exposição visual (Abertura):** Utilizaremos slides com muitas imagens e pouco texto para explicar o que é a IA e o fenômeno da "alucinação".
 **Amostra Prática(finalização):** Utilizando um PC (Personal Computer/Computador Pessoal), Mostraremos, no formato anônimo/sem cadastro do chatgpt, diferentes resultados de diferentes "prompts". 
 
@@ -47,9 +47,8 @@ A oficina será conduzida de maneira **altamente visual e prática**, com instru
 
 ### Ferramentas digitais
 
-- [x] Mentimeter / Kahoot! *(para avaliação visual no fim)*
 - [x] Navegador de internet *(para acessar IAs generativas diretamente pela Web)*
-- [x] Google Forms
+- [x] Google Forms *(para avaliação e exercicio no final)*
 
 
 ### Infraestrutura
@@ -57,7 +56,6 @@ A oficina será conduzida de maneira **altamente visual e prática**, com instru
 - [x] Projetor/TV
 - [x] Computadores/notebooks
 - [x] Acesso à internet
-- [x] Intérprete de Libras *(Obrigatório)*
 - [ ] Outro: *(especificar)*
 
 ## 8. Cronograma de Preparação

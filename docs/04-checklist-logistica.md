@@ -1,8 +1,6 @@
 # 04 — Checklist de Preparação e Logística
 
-> **Oficina:** *O Uso Prático, Ético e Crítico da Inteligência Artificial: De "Muleta" a Parceira de Aprendizagem
-
-*  
+> **Oficina:** *O Uso Prático, Ético e Crítico da Inteligência Artificial: De "Muleta" a Parceira de Aprendizagem*
 > **Data prevista:** *semana do dia 25/05/2026*  
 > **Local:** *Escola Padrão - Parque das Nacoes, Poços de Caldas - State of Minas Gerais, 37706-189*
 

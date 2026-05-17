@@ -1,26 +1,28 @@
 # 04 — Checklist de Preparação e Logística
 
-> **Oficina:** *(tema)*  
-> **Data prevista:** *(preencher)*  
-> **Local:** *(preencher)*
+> **Oficina:** *O Uso Prático, Ético e Crítico da Inteligência Artificial: De "Muleta" a Parceira de Aprendizagem
+
+*  
+> **Data prevista:** *semana do dia 25/05/2026*  
+> **Local:** *Escola Padrão - Parque das Nacoes, Poços de Caldas - State of Minas Gerais, 37706-189*
 
 ---
 
 ## 📋 Etapa 1 — Planejamento Inicial
 
-- [ ] Grupo formado e registrado no Canvas
+- [x] Grupo formado e registrado no Canvas
 - [ ] Tema definido e aprovado pelo professor
-- [ ] Comunidade/colégio identificado
-- [ ] Primeiro contato realizado com a comunidade
+- [x] Comunidade/colégio identificado
+- [x] Primeiro contato realizado com a comunidade
 - [ ] Termo de autorização preenchido e assinado (`01-termo-autorizacao.md` e documento disponibilizado no Canvas)
-- [ ] Termo enviado ao professor para validação
+- [x] Termo enviado ao professor para validação
 - [ ] **Termo aprovado pelo professor**
 
 ## 📋 Etapa 2 — Preparação dos Materiais
 
-- [ ] Plano de oficina elaborado (`02-plano-oficina.md`)
-- [ ] Atividades criadas e documentadas (`06-modelo-atividade.md`, `07-material-oficina.md`)
-- [ ] Ferramentas configuradas (Mentimeter, Kahoot!, Scratch, etc.)
+- [x] Plano de oficina elaborado (`02-plano-oficina.md`)
+- [x] Atividades criadas e documentadas (`06-modelo-atividade.md`, `07-material-oficina.md`)
+- [x] Ferramentas configuradas (Mentimeter, Kahoot!, Scratch, etc.)
 - [ ] Materiais testados com colegas do grupo
 - [ ] Ajustes feitos após testes internos
 - [ ] Nível de complexidade validado (adequado ao público)

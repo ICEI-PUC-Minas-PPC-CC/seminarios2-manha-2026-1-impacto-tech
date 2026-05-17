@@ -24,8 +24,8 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | [Preencher com o nome da escola pública] |
-| Endereço | [Preencher com o endereço] |
+| Nome da instituição | Escola Estadual de Ensino Fundamental e Médio |
+| Endereço | Parque das Nacoes, Poços de Caldas - State of Minas Gerais, 37706-189 |
 | Nome do responsável | [Preencher com o nome do diretor/coordenador] |
 | Cargo/Função | [Preencher com o cargo] |
 | Telefone ou e-mail da instituição | [Preencher com o contato da escola] |

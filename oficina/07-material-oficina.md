@@ -14,7 +14,7 @@
 
 ## Apresentações / Slides
 
-(Se o grupo criou slides para a oficina, liste-os aqui com links ou coloque os arquivos nesta pasta.)
+https://canva.link/zun9o2yfx04o4ce
 
 ## Prints de Tela
 

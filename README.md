@@ -10,16 +10,18 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
-| **E-mail de contato** | *(preencher)* |
-| **Comunidade parceira** | *(preencher)* |
+| **Nome do Grupo** | *Impacto Tech* |
+| **Integrantes** | *Guilherme Diunizio Gurgel, Felipe Souza Figueiredo, Julio Ramalho Tovazi, Otavio da Silva Santos, Victoria Livia de Assis Emídio* |
+| **E-mail de contato** | *guilhermedgurgel@gmail.com, victorialivia691@gmail.com* |
+| **Comunidade parceira** | *Escola Padrão Parque das Nações* |
 
 ---
 
 ## 🎯 Tema da Oficina
 
-(Descreva brevemente o tema escolhido para a oficina e o público-alvo.)
+O tema escolhido para a oficina é o uso ético, crítico e produtivo das Inteligências Artificiais Generativas (IAG) no contexto educacional. A proposta busca orientar os estudantes sobre como utilizar ferramentas de IA como apoio ao aprendizado, evitando a dependência tecnológica e o uso passivo da tecnologia para obtenção de respostas prontas. A oficina abordará estratégias práticas para desenvolver autonomia intelectual, pensamento crítico e verificação de informações, incentivando os alunos a utilizarem a IA como instrumento de apoio ao raciocínio e à construção do conhecimento.
+
+O público-alvo da oficina são estudantes do ensino médio, especialmente jovens que já utilizam ferramentas de Inteligência Artificial em atividades escolares, mas que ainda não receberam orientação adequada sobre seu uso consciente, ético e educacional.
 
 ---
 

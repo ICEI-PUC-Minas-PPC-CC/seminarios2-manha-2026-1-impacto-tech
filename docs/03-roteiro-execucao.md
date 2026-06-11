@@ -1,8 +1,8 @@
 # 03 — Roteiro de Execução da Oficina
 
-> **Data da oficina:** *(preencher)*  
-> **Local:** *(preencher)*  
-> **Horário:** *(início)* às *(término)*
+> **Data da oficina:** *19/06/2026*  
+> **Local:** *Escola Estadual de Ensino Fundamental e Médio*  
+> **Horário:** *8:00* às *8:40*
 
 ---
 
@@ -10,11 +10,10 @@
 
 | Integrante | Papel/Responsabilidade no dia |
 | ----------- | ------------------------------ |
-| | Apresentador inicial |
-| | Apoio técnico (projetor, computadores) |
+| Felipe, Victoria | Apresentador |
+| Julio | Apoio técnico (projetor, computadores) |
 | | Apoio aos participantes durante atividades |
-| | Registro fotográfico |
-| | *(outros conforme necessário)* |
+| Otavio | Registro fotográfico |
 
 ---
 
@@ -24,11 +23,11 @@
 
 | Problema potencial | Solução alternativa |
 | ------------------- | ------------------- |
-| Internet indisponível | |
-| Projetor não funciona | |
-| Menos participantes que o esperado | |
-| Mais participantes que o esperado | |
-| Participante com dificuldade na atividade | |
+| Internet indisponível | Não se aplica |
+| Projetor não funciona | Apresentação oral |
+| Menos participantes que o esperado | Não se aplica |
+| Mais participantes que o esperado | Não se aplica |
+| Participante com dificuldade na atividade | Não se aplica |
 
 ---
 

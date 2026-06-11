@@ -58,11 +58,11 @@ Através da observação do ambiente escolar contemporâneo, identificou-se que 
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data prevista | [DD/MM/AAAA] |
-| Horário de início | [00:00] |
-| Horário de término | [00:00] |
-| Local de realização | [Sala/Laboratório da Escola] |
-| Data alternativa | [DD/MM/AAAA] |
+| Data prevista | 19/06/26 |
+| Horário de início | [08:00] |
+| Horário de término | [08:50] |
+| Local de realização | [Sala/Auditório] |
+| Data alternativa | [26/06/26] |
 
 > **Obs.:** A oficina deve ser realizada **presencialmente**. O agendamento está sujeito à confirmação pelo professor responsável.
 
@@ -71,10 +71,10 @@ Através da observação do ambiente escolar contemporâneo, identificou-se que 
 Adicione um "x" dentro dos colchetes para o *check-up*:
 
 - [x] Plano de trabalho aprovado pela coordenação de extensão do curso. (padrão: sim)
-- [ ] O representante da comunidade autorizou a realização da oficina.
-- [ ] Os temas refletem demandas reais da comunidade.
-- [ ] O representante está ciente de que o professor poderá entrar em contato para validação.
-- [ ] Foi autorizado o registro fotográfico para fins de documentação acadêmica.
+- [x] O representante da comunidade autorizou a realização da oficina.
+- [x] Os temas refletem demandas reais da comunidade.
+- [x] O representante está ciente de que o professor poderá entrar em contato para validação.
+- [x] Foi autorizado o registro fotográfico para fins de documentação acadêmica.
 
 ## 7. Cláusula LGPD
 

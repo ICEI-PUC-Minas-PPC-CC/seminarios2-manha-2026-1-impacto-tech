@@ -2,7 +2,7 @@
 
 > **Data da oficina:** *19/06/2026*  
 > **Local:** *Escola Estadual de Ensino Fundamental e Médio*  
-> **Horário:** *8:00* às *8:40*
+> **Horário:** *8:00* às *8:50*
 
 ---
 

@@ -1,8 +1,18 @@
 # Evidências Fotográficas
 
-Coloque aqui as fotos tiradas durante a execução da oficina.
+## Registros da Atividade
 
-> **Dicas:**
-> Tire fotos variadas: do ambiente, dos participantes em atividade, da tela do computador, do grupo.
-> Nomeie os arquivos de forma descritiva (ex.: `oficina-abertura-01.jpg`, `atividade-kahoot-02.jpg`).
-> Estas fotos serão anexadas ao relatório APC.
+### Registro 1 (turma 1)
+![Registro 1](Registro1.jpeg)
+
+### Registro 2 (turma 1)
+![Registro 2](Registro2.jpeg)
+
+### Registro 3 (turma 2)
+![Registro 3](Registro3.jpeg)
+
+### Registro 4 (turma 2)
+![Registro 4](Registro4.jpeg)
+
+### Registro 5 (turma 2)
+![Registro 5](Registro5.jpeg)

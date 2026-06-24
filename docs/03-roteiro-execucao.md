@@ -10,9 +10,8 @@
 
 | Integrante | Papel/Responsabilidade no dia |
 | ----------- | ------------------------------ |
-| Felipe, Victoria | Apresentador |
-| Julio | Apoio técnico (projetor, computadores) |
-| | Apoio aos participantes durante atividades |
+| Felipe, Julio | Apresentador |
+| Julio e Otavio | Apoio técnico (projetor, computadores) |
 | Otavio | Registro fotográfico |
 
 ---
@@ -33,16 +32,14 @@
 
 ## Checklist Pré-Oficina (dia anterior)
 
-- [ ] Materiais digitais testados e funcionando
-- [ ] Links do Mentimeter/Kahoot! criados e testados
-- [ ] Apresentação/slides prontos
-- [ ] Confirmação do agendamento com o professor ou comunidade
-- [ ] Confirmação da disponibilidade do intérprete de Libras (se aplicável)
-- [ ] Equipamentos verificados (notebook, cabos, adaptadores)
+- [x] Materiais digitais testados e funcionando
+- [x] Apresentação/slides prontos
+- [x] Confirmação do agendamento com o professor ou comunidade
+- [x] Equipamentos verificados (notebook, cabos, adaptadores)
 
 ## Checklist Pós-Oficina (no dia)
 
-- [ ] Fotos registradas (mínimo 10 fotos variadas)
-- [ ] Feedback dos participantes (mesmo por observação)
+- [x] Fotos registradas (mínimo 10 fotos variadas)
+- [x] Feedback dos participantes (mesmo por observação)
 - [ ] Material utilizado salvo/documentado
 - [ ] Agradecimento formal ao colégio/comunidade

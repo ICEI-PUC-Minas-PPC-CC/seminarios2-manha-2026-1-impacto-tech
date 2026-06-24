@@ -35,20 +35,23 @@ O uso de Inteligência Artificial por adolescentes já faz parte da rotina escol
 | --- | -------- | ----------------- | ---------------------- |
 | 1 | Contexto do tema (Slides visuais) | 10 min | Projetor
 | 2 | Dicas de utilização das IAGs (Slides visuais) | 30 min | Projetor
-| 3 | Aplicação do Questionário (Goggle Forms) | 10 min | Projetor e/ou computadores do laboratório
+| 3 | Perguntas e conversa sobre o tema  | 10 min | Projetor
 
 ## 6. Metodologia
 
-A oficina será conduzida de maneira **altamente visual e prática**, com dois principais momentos:
-**Exposição visual (Abertura):** Utilizaremos slides com muitas imagens e pouco texto para explicar o que é a IA e o fenômeno da "alucinação".
-**Amostra Prática(finalização):** Utilizando um PC (Personal Computer/Computador Pessoal), Mostraremos, no formato anônimo/sem cadastro do chatgpt, diferentes resultados de diferentes "prompts". 
+A oficina será conduzida de maneira **altamente visual e participativa**, com dois principais momentos:
+
+**Exposição visual (Abertura):** Utilizaremos slides com muitas imagens e pouco texto para explicar o que é a IA, seus principais usos no cotidiano e o fenômeno das "alucinações", mostrando exemplos simples e próximos da realidade dos estudantes.
+
+**Feedback:** Ao final da apresentação, será realizado um momento de diálogo aberto com os participantes, incentivando perguntas, comentários e reflexões sobre os exemplos apresentados. Os alunos serão convidados discutindo vantagens, riscos e boas práticas de utilização. Esse momento permitirá verificar a compreensão dos conteúdos e estimular a construção coletiva do conhecimento.
+
+---
 
 ## 7. Recursos e Ferramentas Necessários
 
 ### Ferramentas digitais
 
-- [x] Navegador de internet *(para acessar IAs generativas diretamente pela Web)*
-- [x] Google Forms *(para avaliação e exercicio no final)*
+- (não se aplica)
 
 
 ### Infraestrutura
@@ -56,7 +59,6 @@ A oficina será conduzida de maneira **altamente visual e prática**, com dois p
 - [x] Projetor/TV
 - [x] Computadores/notebooks
 - [x] Acesso à internet
-- [ ] Outro: *(especificar)*
 
 ## 8. Cronograma de Preparação
 
@@ -81,8 +83,9 @@ Ela acontecerá em dois momentos:
 
 1. **Momento da apresentação prática:** Durante a demonstração das IAGs, os participantes acompanharão exemplos de perguntas e respostas geradas pela IA. Nesse momento, será observado se os alunos conseguem perceber diferenças entre um uso produtivo da tecnologia e um uso passivo baseado apenas em copiar respostas prontas. Também será incentivada a participação por meio de perguntas rápidas e comentários sobre os exemplos apresentados.
 
-2. **Momento do questionário crítico:** Nos minutos finais, será aplicado um questionário visual e acessível com pequenos textos produzidos por IA sobre temas variados. Alguns conterão informações corretas e outros apresentarão “alucinações” (informações falsas ou inventadas). Os alunos deverão identificar quais textos parecem confiáveis e quais devem ser questionados, podendo discutir e pesquisar as informações quando necessário. A proposta é estimular a análise crítica e mostrar que respostas geradas por IA nem sempre estão corretas.
-Observação direta: Durante as demonstrações práticas, os integrantes do grupo acompanharão a participação dos alunos para verificar se conseguem analisar respostas da IA de maneira crítica, identificando exageros, informações duvidosas ou possíveis invenções geradas pelo sistema.
+2. **Momento do questionário crítico:** Ao término da oficina, os participantes responderão a um breve questionário com perguntas objetivas e reflexivas sobre os conteúdos abordados. As questões buscarão avaliar se os alunos compreenderam conceitos como uso ético da IA, verificação de informações, riscos de confiar cegamente em respostas geradas e formas de utilizar a tecnologia como apoio ao aprendizado. Também haverá espaço para feedback sobre a oficina, permitindo identificar pontos fortes e oportunidades de melhoria para futuras ações.
+
+---
 
 ## 10. Referências
 

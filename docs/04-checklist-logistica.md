@@ -36,7 +36,7 @@
 
 ## 📋 Etapa 4 — Dia da Oficina
 
-- [ ] Todos os integrantes presentes
+- [x] Todos os integrantes presentes
 - [x] Equipamentos funcionando
 - [x] Materiais acessíveis
 - [x] Fotos sendo registradas ao longo da oficina
@@ -47,7 +47,7 @@
 - [x] Fotos organizadas em `evidencias/fotos/`
 - [x] Prints de tela salvos em `evidencias/prints/`
 - [x] Diário de bordo finalizado (`S2-05`)
-- [ ] Relatório de atividades preenchido no APC (`S2-08`)
-- [ ] Autoavaliação individual preenchida no APC (`S2-09`)
+- [x] Relatório de atividades preenchido no APC (`S2-08`)
+- [x] Autoavaliação individual preenchida no APC (`S2-09`)
 - [x] Relatório revisado (não sucinto, com cronograma detalhado)
 - [ ] **Relatório aprovado pelo professor**

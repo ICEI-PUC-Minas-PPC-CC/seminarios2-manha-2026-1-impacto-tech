@@ -41,5 +41,5 @@
 
 - [x] Fotos registradas (mínimo 10 fotos variadas)
 - [x] Feedback dos participantes (mesmo por observação)
-- [ ] Material utilizado salvo/documentado
-- [ ] Agradecimento formal ao colégio/comunidade
+- [x] Material utilizado salvo/documentado
+- [x] Agradecimento formal ao colégio/comunidade
